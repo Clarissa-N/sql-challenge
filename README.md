@@ -16,12 +16,12 @@ Open and Execute the Schema Script:
 
 **2.Import the Data:**
   After executing the schema, import the CSV data into the database tables in the following order:
-    + titles
-    + Departments
-    + employees
-    + salaries
-    + dept_emp
-    + dept_manager
+    1. **titles**
+    2. **Departments**
+    3. **employees**
+    4. **salaries**
+    5. **dept_emp**
+    6. **dept_manager**
 You can import the data using the Import/Export feature in PGAdmin
 
 **3. Run Analysis Queries**
