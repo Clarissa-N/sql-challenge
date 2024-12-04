@@ -22,7 +22,8 @@ Open and Execute the Schema Script:
 4. **salaries**
 5. **dept_emp**
 6. **dept_manager**
-You can import the data using the Import/Export feature in PGAdmin
+
+  You can import the data using the Import/Export feature in PGAdmin
 
 **3. Run Analysis Queries**
 Open the employee_data_analysis.sql file in a new query window.
