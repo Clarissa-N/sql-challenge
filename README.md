@@ -4,6 +4,7 @@ This repository demonstrates the use of data modeling, data engineering, and dat
 # Repository Structure
 **EmployeeSQL:** Contains all SQL files and resources for creating the database and performing analysis.
   + **QuickDBD-export.sql:** SQL code generated from the QuickDBD tool, representing the database schema.
+  + **QuickDBD-export.png:** Image of the entity relationship diagram made on QuickDBD tool
   + **create_tables_schema.sql:** SQL script to create the database tables and establish relationships, as well as import the data from CSV files.
   + **employee_data_analysis.sql:** A collection of SQL queries designed to answer specific data analysis questions.
   + **Resources Folder:** Contains the necessary CSV files for importing data into the database tables.
