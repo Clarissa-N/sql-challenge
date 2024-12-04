@@ -14,7 +14,7 @@ Open and Execute the Schema Script:
   + Open the create_tables_schema.sql file in PGAdmin
   + Execute the entire script to create the tables
 
-**2.Import the Data:**
+**2. Import the Data:**
   After executing the schema, import the CSV data into the database tables in the following order:
     1. **titles**
     2. **Departments**
