@@ -9,13 +9,14 @@ This repository demonstrates the use of data modeling, data engineering, and dat
   + **Resources Folder:** Contains the necessary CSV files for importing data into the database tables.
   
 # Instructions to Run the Files
-**1. Set Up the Database and Tables**
+**1. Set Up the Database and Tables:**
+
 Open and Execute the Schema Script:
   + Open the create_tables_schema.sql file in PGAdmin
   + Execute the entire script to create the tables
 
 **2. Import the Data:**
-  After executing the schema, import the CSV data into the database tables in the following order:
+After executing the schema, import the CSV data into the database tables in the following order:
 1. **titles**
 2. **Departments**
 3. **employees**
@@ -23,9 +24,10 @@ Open and Execute the Schema Script:
 5. **dept_emp**
 6. **dept_manager**
 
-  You can import the data using the Import/Export feature in PGAdmin
+You can import the data using the Import/Export feature in PGAdmin
 
-**3. Run Analysis Queries**
+**3. Run Analysis Queries:**
+
 Open the employee_data_analysis.sql file in a new query window.
 The file contains multiple SQL queries designed to answer various analysis questions. You can run these queries individually to view the results.
 
